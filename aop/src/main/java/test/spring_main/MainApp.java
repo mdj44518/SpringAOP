@@ -16,6 +16,7 @@ public class MainApp {
 		
 		ctx.close();
 		
+		System.out.println("git 올리기 1");
 	}
 
 }

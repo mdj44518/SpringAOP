@@ -22,8 +22,9 @@ public class MainApp {
 		
 		
 		
-		System.out.println("브런치로 갈아타기 1");
+		System.out.println("브랜치로 갈아타기 1");
 		System.out.println("브랜치 이어서 작업 1");
+		System.out.println("브랜치 이어서 작업 2");
 	}
 
 }

@@ -17,6 +17,12 @@ public class MainApp {
 		ctx.close();
 		
 		System.out.println("git 올리기 1");
+		
+		
+		
+		
+		
+		System.out.println("브런치로 갈아타기 1");
 	}
 
 }

@@ -18,6 +18,7 @@ public class MainApp {
 		
 		System.out.println("git 올리기 1");
 		System.out.println("git 올리기 2");
+		System.out.println("git 올리기 3");
 	}
 
 }

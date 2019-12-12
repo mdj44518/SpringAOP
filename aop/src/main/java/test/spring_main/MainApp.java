@@ -19,6 +19,12 @@ public class MainApp {
 		System.out.println("git 올리기 1");
 		System.out.println("git 올리기 2");
 		System.out.println("git 올리기 3");
+		
+		
+		
+		
+		
+		System.out.println("브런치로 갈아타기 1");
 	}
 
 }
